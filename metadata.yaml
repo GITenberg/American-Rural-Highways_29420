@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33902'
     url: http://www.gutenberg.org/2009/agents/33902
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29420#American-Rural-Highways
 gutenberg_bookshelf:
 - Technology
 - Travel
